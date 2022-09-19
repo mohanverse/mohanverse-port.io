@@ -6,8 +6,8 @@
 
 ## Built with
 
-- HTML5
-- Tailwind CSS
+-> HTML5
+-> Tailwind CSS
 
 
 ## What I learned
