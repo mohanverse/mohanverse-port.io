@@ -1,6 +1,6 @@
 # mohanverse-port
 
-- This is a porfolio website made using tailwind css
+# This is a porfolio website made using tailwind css
 
 # I'm mohan kumar chaudhary
 
